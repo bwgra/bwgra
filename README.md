@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/TheKidPadra/TheKidPadra/blob/main/mylivewallpapers-com-Lee-Punishi.gif?raw=true)
 
 <h1 align="center">
   Console.Writeline("Hello World")
