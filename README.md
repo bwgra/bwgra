@@ -19,3 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bwgra&show_icons=true&locale=en" alt="bwgra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bwgra&" alt="bwgra" /></p>
+
+
+![snake gif](https://github.com/bwgra/bwgra/blob/output/github-contribution-grid-snake.gif)
