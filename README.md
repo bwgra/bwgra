@@ -1,8 +1,5 @@
-[![MasterHead](https://github.com/TheKidPadra/TheKidPadra/blob/main/mylivewallpapers-com-Lee-Punishi.gif?raw=true)
-
-<h1 align="center">
-  Console.Writeline("Hello World")
-</h1>
+<img src="https://github.com/TheKidPadra/TheKidPadra/blob/main/mylivewallpapers-com-Lee-Punishi.gif?raw=true" alt="MasterHead">
+<h1 align="center">Hello World!</h1>
 
 <h3 align="center">A passionate software developer from Turkey </h3>
 
