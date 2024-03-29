@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Buğra</h1>
+v<h1 align="center">Hi 👋, I'm Buğra</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
 - 📫 How to reach me **paricfy@gmail.com**
@@ -21,4 +21,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bwgra&" alt="bwgra" /></p>
 
 
-![snake gif](https://github.com/bwgra/bwgra/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bwgra/bwgra/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bwgra/bwgra/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bwgra/bwgra/output/github-contribution-grid-snake.svg">
+</picture>
