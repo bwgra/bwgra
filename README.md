@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/TheKidPadra/TheKidPadra/blob/main/mylivewallpapers-com-Lee-Punishi.gif)]
+[!MasterHead](https://github.com/TheKidPadra/TheKidPadra/blob/main/mylivewallpapers-com-Lee-Punishi.gif)
 <h1 align="center">Hi 👋, I'm Buğra</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
