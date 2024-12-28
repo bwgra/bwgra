@@ -5,13 +5,6 @@
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **a C# app**
- 
- 🌱 I’m currently learning **Linux, Python**
-
- </div>
  
 <div align="center"> 
   <a href="mailto:paricfy@gmail.com">
